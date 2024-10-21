@@ -16,4 +16,4 @@
 
 ### If you want to know anything, Tell Me! I will help you.
 
-(./hero-devices.svg)
+(https://raw.githubusercontent.com/Rokon744/Rokon744/0d9966bf5ca1c159d12a3988e1e496f789bf8a87/hero-devices.svg)
