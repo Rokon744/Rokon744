@@ -15,3 +15,5 @@
 - ➦ API handling with Next.js
 
 ### If you want to know anything, Tell Me! I will help you.
+
+(./hero-devices.svg)
